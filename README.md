@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abburisaikumar02
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Fullstack development
+- 🌱 I’m doing Master's in Information System
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me saikumarabburi123@gmail.com
 
